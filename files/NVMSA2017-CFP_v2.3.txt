@@ -1,0 +1,94 @@
+================================================================================
+                                 CALL FOR PAPERS
+================================================================================
+
+The 6th IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA 2017)
+                        August 16 - 18, 2017, Hsinchu, Taiwan
+                   
+
+
+Important Dates: 
+   
+	Paper submission: April 14, 2017 (11:59pm GMT-12) 
+	Author notification: June 2, 2017
+	Final version: June 16, 2017
+
+
+Conference website:  http://nvmsa2017.iis.sinica.edu.tw/
+
+
+Information:
+
+Non-Volatile memory (NVM) technologies have demonstrated great potential in 
+improving many aspects of present and future memory hierarchies, offering 
+high integration density, large capacity, zero standby power and good 
+resilience to soft errors. The recent research progress of various NVMs, 
+e.g., NAND flash, PCM, STT-RAM, RRAM, Racetrack, FeRAM, etc., have drawn 
+tremendous attentions from both academia and industry. Besides developing 
+robust and scalable devices, the unique characteristics of these NVM 
+technologies introduce plenty of opportunities and challenges for novel 
+circuit designs, architectures, system organizations, and management 
+strategies. There is an urgent need for technology invention, modeling, 
+analysis, design and application of these NVMs ranging from circuit design 
+level to system level. Non-Volatile Memory Systems and Applications 
+Symposium (NVMSA) seeks both research and industry papers that describe 
+research or technical aspects related to NVMs. More information on 
+NVMSA 2017 can be found at http://nvmsa2017.iis.sinica.edu.tw/
+
+
+Call for Papers: 
+
+NVMSA is a premier conference in the area of non-volatile memory systems and 
+emerging memory technologies. It provides a fantastic opportunity for global 
+nonvolatile memory researchers from different communities to discuss and 
+exchange knowledge, ideas and insights, and to facilitate the establishment
+of potential collaborations that can speed up the progress in the design and 
+application of NVMs. An expanded technical program will be offered in NVMSA 
+2017 for the audience from academia and industry. The organizing committee is
+soliciting various topics on related to NVMs including, but not limited to:
+
+Device/Circuit Design of NVM Systems:
+	- Emerging NVM Circuit Design
+	- NVM Device Design 
+	- Error Correction for NVMs 
+	- Non-volatile Logic Circuit
+	- Low Power NVM Circuit
+NVM Architecture and Systems:
+	- Non-volatile Registers
+	- Non-volatile Memory Architectures
+	- Non-volatile Cache Design
+	- NVM Neuromorphic Architectures
+	- NVDIMM
+NVM Storage:
+	- Operating System Support for NVM
+	- Compiler Optimization for NVM
+	- NVM-based Storage Software
+	- NVM-based Databases
+	- NVM Controller Design
+NVM Applications:
+	- In-memory Computing
+	- NVM for Big Data Analytics
+	- NVM in Mobile Healthcare Applications
+	- NVM in Wearable Applications
+	- NVM in the Internet of Things
+
+
+Submission: 
+
+Both research and industry track papers are solicited. All papers must be 
+submitted electronically in PDF format. The submitted manuscript must describe 
+original work not previously published and not concurrently submitted 
+lsewhere. Submissions should be no more than 6 pages in the IEEE conference 
+proceedings format (two-column, single-space). Conference content will be
+submitted for inclusion into IEEE Xplore, and will be EI indexed.
+
+
+Submission website: https://easychair.org/conferences/?conf=nvmsa2017
+
+
+Special issues for selected papers:
+
+Selected papers will be recommended to submit the extended versions to the 
+special issues of ACM Transactions on Storage (TOS) and ACM Journal of 
+Emerging Technologies in Computing Systems (JETC).
+ 
